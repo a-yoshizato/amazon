@@ -34,6 +34,8 @@
 .product_info {
     height: 100px;
     margin-bottom: 15px;
+
+    align-items: left;
 }
 
 .product_rating {
